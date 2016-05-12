@@ -1,0 +1,1005 @@
+<ROUGE_EVAL version="1.55">
+	<EVAL ID="0">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">accuracy_garmin_nuvi_255W_gps.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >accuracy_garmin_nuvi_255W_gps.1.gold</M>
+			<M ID="B" >accuracy_garmin_nuvi_255W_gps.2.gold</M>
+			<M ID="C" >accuracy_garmin_nuvi_255W_gps.3.gold</M>
+			<M ID="D" >accuracy_garmin_nuvi_255W_gps.4.gold</M>
+			<M ID="E" >accuracy_garmin_nuvi_255W_gps.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="1">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">bathroom_bestwestern_hotel_sfo.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >bathroom_bestwestern_hotel_sfo.1.gold</M>
+			<M ID="B" >bathroom_bestwestern_hotel_sfo.2.gold</M>
+			<M ID="C" >bathroom_bestwestern_hotel_sfo.3.gold</M>
+			<M ID="D" >bathroom_bestwestern_hotel_sfo.4.gold</M>
+			<M ID="E" >bathroom_bestwestern_hotel_sfo.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="2">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">battery-life_amazon_kindle.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >battery-life_amazon_kindle.1.gold</M>
+			<M ID="B" >battery-life_amazon_kindle.2.gold</M>
+			<M ID="C" >battery-life_amazon_kindle.3.gold</M>
+			<M ID="D" >battery-life_amazon_kindle.4.gold</M>
+			<M ID="E" >battery-life_amazon_kindle.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="3">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">battery-life_ipod_nano_8gb.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >battery-life_ipod_nano_8gb.1.gold</M>
+			<M ID="B" >battery-life_ipod_nano_8gb.2.gold</M>
+			<M ID="C" >battery-life_ipod_nano_8gb.3.gold</M>
+			<M ID="D" >battery-life_ipod_nano_8gb.4.gold</M>
+			<M ID="E" >battery-life_ipod_nano_8gb.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="4">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">battery-life_netbook_1005ha.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >battery-life_netbook_1005ha.1.gold</M>
+			<M ID="B" >battery-life_netbook_1005ha.2.gold</M>
+			<M ID="C" >battery-life_netbook_1005ha.3.gold</M>
+			<M ID="D" >battery-life_netbook_1005ha.4.gold</M>
+			<M ID="E" >battery-life_netbook_1005ha.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="5">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">buttons_amazon_kindle.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >buttons_amazon_kindle.1.gold</M>
+			<M ID="B" >buttons_amazon_kindle.2.gold</M>
+			<M ID="C" >buttons_amazon_kindle.3.gold</M>
+			<M ID="D" >buttons_amazon_kindle.4.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="6">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">comfort_honda_accord_2008.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >comfort_honda_accord_2008.1.gold</M>
+			<M ID="B" >comfort_honda_accord_2008.2.gold</M>
+			<M ID="C" >comfort_honda_accord_2008.3.gold</M>
+			<M ID="D" >comfort_honda_accord_2008.4.gold</M>
+			<M ID="E" >comfort_honda_accord_2008.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="7">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">comfort_toyota_camry_2007.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >comfort_toyota_camry_2007.1.gold</M>
+			<M ID="B" >comfort_toyota_camry_2007.2.gold</M>
+			<M ID="C" >comfort_toyota_camry_2007.3.gold</M>
+			<M ID="D" >comfort_toyota_camry_2007.4.gold</M>
+			<M ID="E" >comfort_toyota_camry_2007.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="8">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">directions_garmin_nuvi_255W_gps.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >directions_garmin_nuvi_255W_gps.1.gold</M>
+			<M ID="B" >directions_garmin_nuvi_255W_gps.2.gold</M>
+			<M ID="C" >directions_garmin_nuvi_255W_gps.3.gold</M>
+			<M ID="D" >directions_garmin_nuvi_255W_gps.4.gold</M>
+			<M ID="E" >directions_garmin_nuvi_255W_gps.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="9">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">display_garmin_nuvi_255W_gps.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >display_garmin_nuvi_255W_gps.1.gold</M>
+			<M ID="B" >display_garmin_nuvi_255W_gps.2.gold</M>
+			<M ID="C" >display_garmin_nuvi_255W_gps.3.gold</M>
+			<M ID="D" >display_garmin_nuvi_255W_gps.4.gold</M>
+			<M ID="E" >display_garmin_nuvi_255W_gps.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="10">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">eyesight-issues_amazon_kindle.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >eyesight-issues_amazon_kindle.1.gold</M>
+			<M ID="B" >eyesight-issues_amazon_kindle.2.gold</M>
+			<M ID="C" >eyesight-issues_amazon_kindle.3.gold</M>
+			<M ID="D" >eyesight-issues_amazon_kindle.4.gold</M>
+			<M ID="E" >eyesight-issues_amazon_kindle.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="11">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">features_windows7.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >features_windows7.1.gold</M>
+			<M ID="B" >features_windows7.2.gold</M>
+			<M ID="C" >features_windows7.3.gold</M>
+			<M ID="D" >features_windows7.4.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="12">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">fonts_amazon_kindle.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >fonts_amazon_kindle.1.gold</M>
+			<M ID="B" >fonts_amazon_kindle.2.gold</M>
+			<M ID="C" >fonts_amazon_kindle.3.gold</M>
+			<M ID="D" >fonts_amazon_kindle.4.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="13">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">food_holiday_inn_london.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >food_holiday_inn_london.1.gold</M>
+			<M ID="B" >food_holiday_inn_london.2.gold</M>
+			<M ID="C" >food_holiday_inn_london.3.gold</M>
+			<M ID="D" >food_holiday_inn_london.4.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="14">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">food_swissotel_chicago.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >food_swissotel_chicago.1.gold</M>
+			<M ID="B" >food_swissotel_chicago.2.gold</M>
+			<M ID="C" >food_swissotel_chicago.3.gold</M>
+			<M ID="D" >food_swissotel_chicago.4.gold</M>
+			<M ID="E" >food_swissotel_chicago.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="15">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">free_bestwestern_hotel_sfo.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >free_bestwestern_hotel_sfo.1.gold</M>
+			<M ID="B" >free_bestwestern_hotel_sfo.2.gold</M>
+			<M ID="C" >free_bestwestern_hotel_sfo.3.gold</M>
+			<M ID="D" >free_bestwestern_hotel_sfo.4.gold</M>
+			<M ID="E" >free_bestwestern_hotel_sfo.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="16">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">gas_mileage_toyota_camry_2007.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >gas_mileage_toyota_camry_2007.1.gold</M>
+			<M ID="B" >gas_mileage_toyota_camry_2007.2.gold</M>
+			<M ID="C" >gas_mileage_toyota_camry_2007.3.gold</M>
+			<M ID="D" >gas_mileage_toyota_camry_2007.4.gold</M>
+			<M ID="E" >gas_mileage_toyota_camry_2007.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="17">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">interior_honda_accord_2008.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >interior_honda_accord_2008.1.gold</M>
+			<M ID="B" >interior_honda_accord_2008.2.gold</M>
+			<M ID="C" >interior_honda_accord_2008.3.gold</M>
+			<M ID="D" >interior_honda_accord_2008.4.gold</M>
+			<M ID="E" >interior_honda_accord_2008.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="18">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">interior_toyota_camry_2007.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >interior_toyota_camry_2007.1.gold</M>
+			<M ID="B" >interior_toyota_camry_2007.2.gold</M>
+			<M ID="C" >interior_toyota_camry_2007.3.gold</M>
+			<M ID="D" >interior_toyota_camry_2007.4.gold</M>
+			<M ID="E" >interior_toyota_camry_2007.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="19">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">keyboard_netbook_1005ha.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >keyboard_netbook_1005ha.1.gold</M>
+			<M ID="B" >keyboard_netbook_1005ha.2.gold</M>
+			<M ID="C" >keyboard_netbook_1005ha.3.gold</M>
+			<M ID="D" >keyboard_netbook_1005ha.4.gold</M>
+			<M ID="E" >keyboard_netbook_1005ha.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="20">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">location_bestwestern_hotel_sfo.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >location_bestwestern_hotel_sfo.1.gold</M>
+			<M ID="B" >location_bestwestern_hotel_sfo.2.gold</M>
+			<M ID="C" >location_bestwestern_hotel_sfo.3.gold</M>
+			<M ID="D" >location_bestwestern_hotel_sfo.4.gold</M>
+			<M ID="E" >location_bestwestern_hotel_sfo.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="21">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">location_holiday_inn_london.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >location_holiday_inn_london.1.gold</M>
+			<M ID="B" >location_holiday_inn_london.2.gold</M>
+			<M ID="C" >location_holiday_inn_london.3.gold</M>
+			<M ID="D" >location_holiday_inn_london.4.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="22">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">mileage_honda_accord_2008.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >mileage_honda_accord_2008.1.gold</M>
+			<M ID="B" >mileage_honda_accord_2008.2.gold</M>
+			<M ID="C" >mileage_honda_accord_2008.3.gold</M>
+			<M ID="D" >mileage_honda_accord_2008.4.gold</M>
+			<M ID="E" >mileage_honda_accord_2008.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="23">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">navigation_amazon_kindle.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >navigation_amazon_kindle.1.gold</M>
+			<M ID="B" >navigation_amazon_kindle.2.gold</M>
+			<M ID="C" >navigation_amazon_kindle.3.gold</M>
+			<M ID="D" >navigation_amazon_kindle.4.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="24">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">parking_bestwestern_hotel_sfo.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >parking_bestwestern_hotel_sfo.1.gold</M>
+			<M ID="B" >parking_bestwestern_hotel_sfo.2.gold</M>
+			<M ID="C" >parking_bestwestern_hotel_sfo.3.gold</M>
+			<M ID="D" >parking_bestwestern_hotel_sfo.4.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="25">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">performance_honda_accord_2008.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >performance_honda_accord_2008.1.gold</M>
+			<M ID="B" >performance_honda_accord_2008.2.gold</M>
+			<M ID="C" >performance_honda_accord_2008.3.gold</M>
+			<M ID="D" >performance_honda_accord_2008.4.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="26">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">performance_netbook_1005ha.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >performance_netbook_1005ha.1.gold</M>
+			<M ID="B" >performance_netbook_1005ha.2.gold</M>
+			<M ID="C" >performance_netbook_1005ha.3.gold</M>
+			<M ID="D" >performance_netbook_1005ha.4.gold</M>
+			<M ID="E" >performance_netbook_1005ha.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="27">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">price_amazon_kindle.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >price_amazon_kindle.1.gold</M>
+			<M ID="B" >price_amazon_kindle.2.gold</M>
+			<M ID="C" >price_amazon_kindle.3.gold</M>
+			<M ID="D" >price_amazon_kindle.4.gold</M>
+			<M ID="E" >price_amazon_kindle.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="28">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">price_holiday_inn_london.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >price_holiday_inn_london.1.gold</M>
+			<M ID="B" >price_holiday_inn_london.2.gold</M>
+			<M ID="C" >price_holiday_inn_london.3.gold</M>
+			<M ID="D" >price_holiday_inn_london.4.gold</M>
+			<M ID="E" >price_holiday_inn_london.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="29">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">quality_toyota_camry_2007.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >quality_toyota_camry_2007.1.gold</M>
+			<M ID="B" >quality_toyota_camry_2007.2.gold</M>
+			<M ID="C" >quality_toyota_camry_2007.3.gold</M>
+			<M ID="D" >quality_toyota_camry_2007.4.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="30">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">rooms_bestwestern_hotel_sfo.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >rooms_bestwestern_hotel_sfo.1.gold</M>
+			<M ID="B" >rooms_bestwestern_hotel_sfo.2.gold</M>
+			<M ID="C" >rooms_bestwestern_hotel_sfo.3.gold</M>
+			<M ID="D" >rooms_bestwestern_hotel_sfo.4.gold</M>
+			<M ID="E" >rooms_bestwestern_hotel_sfo.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="31">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">rooms_swissotel_chicago.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >rooms_swissotel_chicago.1.gold</M>
+			<M ID="B" >rooms_swissotel_chicago.2.gold</M>
+			<M ID="C" >rooms_swissotel_chicago.3.gold</M>
+			<M ID="D" >rooms_swissotel_chicago.4.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="32">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">room_holiday_inn_london.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >room_holiday_inn_london.1.gold</M>
+			<M ID="B" >room_holiday_inn_london.2.gold</M>
+			<M ID="C" >room_holiday_inn_london.3.gold</M>
+			<M ID="D" >room_holiday_inn_london.4.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="33">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">satellite_garmin_nuvi_255W_gps.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >satellite_garmin_nuvi_255W_gps.1.gold</M>
+			<M ID="B" >satellite_garmin_nuvi_255W_gps.2.gold</M>
+			<M ID="C" >satellite_garmin_nuvi_255W_gps.3.gold</M>
+			<M ID="D" >satellite_garmin_nuvi_255W_gps.4.gold</M>
+			<M ID="E" >satellite_garmin_nuvi_255W_gps.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="34">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">screen_garmin_nuvi_255W_gps.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >screen_garmin_nuvi_255W_gps.1.gold</M>
+			<M ID="B" >screen_garmin_nuvi_255W_gps.2.gold</M>
+			<M ID="C" >screen_garmin_nuvi_255W_gps.3.gold</M>
+			<M ID="D" >screen_garmin_nuvi_255W_gps.4.gold</M>
+			<M ID="E" >screen_garmin_nuvi_255W_gps.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="35">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">screen_ipod_nano_8gb.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >screen_ipod_nano_8gb.1.gold</M>
+			<M ID="B" >screen_ipod_nano_8gb.2.gold</M>
+			<M ID="C" >screen_ipod_nano_8gb.3.gold</M>
+			<M ID="D" >screen_ipod_nano_8gb.4.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="36">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">screen_netbook_1005ha.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >screen_netbook_1005ha.1.gold</M>
+			<M ID="B" >screen_netbook_1005ha.2.gold</M>
+			<M ID="C" >screen_netbook_1005ha.3.gold</M>
+			<M ID="D" >screen_netbook_1005ha.4.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="37">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">seats_honda_accord_2008.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >seats_honda_accord_2008.1.gold</M>
+			<M ID="B" >seats_honda_accord_2008.2.gold</M>
+			<M ID="C" >seats_honda_accord_2008.3.gold</M>
+			<M ID="D" >seats_honda_accord_2008.4.gold</M>
+			<M ID="E" >seats_honda_accord_2008.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="38">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">service_bestwestern_hotel_sfo.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >service_bestwestern_hotel_sfo.1.gold</M>
+			<M ID="B" >service_bestwestern_hotel_sfo.2.gold</M>
+			<M ID="C" >service_bestwestern_hotel_sfo.3.gold</M>
+			<M ID="D" >service_bestwestern_hotel_sfo.4.gold</M>
+			<M ID="E" >service_bestwestern_hotel_sfo.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="39">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">service_holiday_inn_london.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >service_holiday_inn_london.1.gold</M>
+			<M ID="B" >service_holiday_inn_london.2.gold</M>
+			<M ID="C" >service_holiday_inn_london.3.gold</M>
+			<M ID="D" >service_holiday_inn_london.4.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="40">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">service_swissotel_hotel_chicago.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >service_swissotel_hotel_chicago.1.gold</M>
+			<M ID="B" >service_swissotel_hotel_chicago.2.gold</M>
+			<M ID="C" >service_swissotel_hotel_chicago.3.gold</M>
+			<M ID="D" >service_swissotel_hotel_chicago.4.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="41">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">size_asus_netbook_1005ha.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >size_asus_netbook_1005ha.1.gold</M>
+			<M ID="B" >size_asus_netbook_1005ha.2.gold</M>
+			<M ID="C" >size_asus_netbook_1005ha.3.gold</M>
+			<M ID="D" >size_asus_netbook_1005ha.4.gold</M>
+			<M ID="E" >size_asus_netbook_1005ha.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="42">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">sound_ipod_nano_8gb.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >sound_ipod_nano_8gb.1.gold</M>
+			<M ID="B" >sound_ipod_nano_8gb.2.gold</M>
+			<M ID="C" >sound_ipod_nano_8gb.3.gold</M>
+			<M ID="D" >sound_ipod_nano_8gb.4.gold</M>
+			<M ID="E" >sound_ipod_nano_8gb.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="43">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">speed_garmin_nuvi_255W_gps.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >speed_garmin_nuvi_255W_gps.1.gold</M>
+			<M ID="B" >speed_garmin_nuvi_255W_gps.2.gold</M>
+			<M ID="C" >speed_garmin_nuvi_255W_gps.3.gold</M>
+			<M ID="D" >speed_garmin_nuvi_255W_gps.4.gold</M>
+			<M ID="E" >speed_garmin_nuvi_255W_gps.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="44">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">speed_windows7.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >speed_windows7.1.gold</M>
+			<M ID="B" >speed_windows7.2.gold</M>
+			<M ID="C" >speed_windows7.3.gold</M>
+			<M ID="D" >speed_windows7.4.gold</M>
+			<M ID="E" >speed_windows7.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="45">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">staff_bestwestern_hotel_sfo.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >staff_bestwestern_hotel_sfo.1.gold</M>
+			<M ID="B" >staff_bestwestern_hotel_sfo.2.gold</M>
+			<M ID="C" >staff_bestwestern_hotel_sfo.3.gold</M>
+			<M ID="D" >staff_bestwestern_hotel_sfo.4.gold</M>
+			<M ID="E" >staff_bestwestern_hotel_sfo.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="46">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">staff_swissotel_chicago.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >staff_swissotel_chicago.1.gold</M>
+			<M ID="B" >staff_swissotel_chicago.2.gold</M>
+			<M ID="C" >staff_swissotel_chicago.3.gold</M>
+			<M ID="D" >staff_swissotel_chicago.4.gold</M>
+			<M ID="E" >staff_swissotel_chicago.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="47">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">transmission_toyota_camry_2007.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >transmission_toyota_camry_2007.1.gold</M>
+			<M ID="B" >transmission_toyota_camry_2007.2.gold</M>
+			<M ID="C" >transmission_toyota_camry_2007.3.gold</M>
+			<M ID="D" >transmission_toyota_camry_2007.4.gold</M>
+			<M ID="E" >transmission_toyota_camry_2007.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="48">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">updates_garmin_nuvi_255W_gps.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >updates_garmin_nuvi_255W_gps.1.gold</M>
+			<M ID="B" >updates_garmin_nuvi_255W_gps.2.gold</M>
+			<M ID="C" >updates_garmin_nuvi_255W_gps.3.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="49">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">video_ipod_nano_8gb.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >video_ipod_nano_8gb.1.gold</M>
+			<M ID="B" >video_ipod_nano_8gb.2.gold</M>
+			<M ID="C" >video_ipod_nano_8gb.3.gold</M>
+			<M ID="D" >video_ipod_nano_8gb.4.gold</M>
+			<M ID="E" >video_ipod_nano_8gb.5.gold</M>
+		</MODELS>
+	</EVAL>
+	<EVAL ID="50">
+		<MODEL-ROOT>
+ 			 model 
+		</MODEL-ROOT>
+		<PEER-ROOT>
+			peer 
+		</PEER-ROOT>
+		<INPUT-FORMAT TYPE="SPL">
+		</INPUT-FORMAT>
+		<PEERS>
+			<P ID="1">voice_garmin_nuvi_255W_gps.txt.data </P> 
+		</PEERS>
+		<MODELS>
+			<M ID="A" >voice_garmin_nuvi_255W_gps.1.gold</M>
+			<M ID="B" >voice_garmin_nuvi_255W_gps.2.gold</M>
+			<M ID="C" >voice_garmin_nuvi_255W_gps.3.gold</M>
+			<M ID="D" >voice_garmin_nuvi_255W_gps.4.gold</M>
+			<M ID="E" >voice_garmin_nuvi_255W_gps.5.gold</M>
+		</MODELS>
+	</EVAL>
+</ROUGE_EVAL>

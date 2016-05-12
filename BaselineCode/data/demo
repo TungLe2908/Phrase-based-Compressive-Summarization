@@ -1,0 +1,6 @@
+# Sentence pair (1) source length 14 target length 15 alignment score : 4.72411e-32
+' It 'll be cheap at the price if it keeps the family happy ! 
+NULL ({ 3 4 7 12 }) ' ({ 1 }) Nếu ({ 2 }) điều ({ 10 }) đó ({ }) giữ ({ 11 }) được ({ }) hạnh_phúc ({ 14 }) gia_đình ({ 13 }) thì ({ 9 }) vẫn ({ }) còn ({ }) hời ({ 5 6 8 }) đấy ({ }) ! ({ 15 }) 
+# Sentence pair (1) source length 15 target length 14 alignment score : 7.36029e-31
+' Nếu điều đó giữ được hạnh_phúc gia_đình thì vẫn còn hời đấy ! 
+NULL ({ 4 6 9 13 }) ' ({ 1 }) It ({ }) 'll ({ }) be ({ }) cheap ({ 10 11 }) at ({ }) the ({ }) price ({ 12 }) if ({ 2 }) it ({ 3 }) keeps ({ 5 }) the ({ }) family ({ 8 }) happy ({ 7 }) ! ({ 14 }) 
